@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Neha! 👋
 
-<!--
-**nehatn/nehatn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Education:** 6th Semester student pursuing a Bachelor of Engineering (B.E.) in Information Science and Engineering[span_0](start_span)[span_0](end_span).
+- 🏫 **Institution:** SJC Institute of Technology (SJCIT), affiliated with VTU[span_1](start_span)[span_1](end_span).
+- 💻 **Core Technical Skills:** Java, Python, Cloud Computing, and DevOps Foundations.
+- 🎯 **Current Focus:** Solving Data Structures & Algorithms (DSA) problems on LeetCode and preparing for the GATE examination.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Projects
+* **AI System for Automatic Bug Fix Suggestion** - Multi-language AI engine built to detect code errors and generate context-aware solutions.
+* **AI-Driven Phishing URL Classifier** - Machine learning application for cybersecurity to dynamically identify malicious web links.
+* **Blockchain-Based Land Registry System** - A decentralized, secure distributed systems platform for data integrity.
+* 
